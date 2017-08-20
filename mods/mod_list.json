@@ -1,0 +1,6 @@
+{
+    "repositoryRoot": "/Users/rito/MinecraftServer/HenryCraft_Server_1.12.1_Mods/libraries",
+    "modRef": [
+        "net.minecraftforge:MercuriusUpdater:1.12.1"
+    ]
+}
